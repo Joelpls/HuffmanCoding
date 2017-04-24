@@ -1,0 +1,25 @@
+April 16, 2017
+*Started
+*Read a file
+*Count the characters in the file into an array
+
+April 17, 2017
+*Start creating the Node class
+*add the characters to the Nodes
+*Start figuring out how to build a Huffman tree
+
+April 18, 2017
+*Complete the Huffman Tree building code
+*Start function to get Huffman codes
+
+April 19, 2017
+*code to write Huffman tree and ascii data to a compressed file
+
+April 20, 2017
+*Start working on uncompression 
+*Figure out a way to get the binary from the compressed file.
+*remake the tree
+
+April 21, 2017
+*take the binary and convert it to ascii and write it to an uncompressed file.
+*make it look pretty
